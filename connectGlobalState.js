@@ -1,3 +1,5 @@
+import React from 'react';
+
 // connectGlobalState ======================================================================= //
 let _components = [];
 let _globalState = {};
